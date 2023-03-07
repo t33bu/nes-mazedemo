@@ -2,7 +2,7 @@
 
 This program is the result of experimenting with NES programming using the C programming language and minimal assembly. 
 
-Maze is hardcoded into the program, but hero uses depth-first-search to find a way out from the maze. Sprites are used for the hero and exit, otherwise background is modified show the maze and mark the traversed route with breadcrumbs. 
+Maze is hardcoded into the program, but hero uses depth-first-search to find a way out from the maze. Sprites are used for the hero and exit, otherwise the background is tiles, modified show the maze and mark the traversed route with breadcrumbs. 
 
 A [short video](https://www.youtube.com/watch?v=v5sn4rrUSHI) showing how the demo runs. 
 
