@@ -4,6 +4,8 @@ This program is the result of experimenting with NES programming using the C pro
 
 Maze is hardcoded into the program, but hero uses depth-first-search to find a way out from the maze. Sprites are used for the hero and exit, otherwise the background is tiles, modified show the maze and mark the traversed route with breadcrumbs. 
 
+*Makefile* provided for building the program from sources and *mazedemo.nes* is the complete binary.
+
 A [short video](https://www.youtube.com/watch?v=v5sn4rrUSHI) showing how the demo runs. 
 
 ![Thumbnail](https://github.com/t33bu/nes-mazedemo/blob/main/res/thumbnail.png "Screenshot")
